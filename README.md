@@ -1,17 +1,5 @@
 # 💫 Hi there, I'm Sakshi Khutwad 👋
 
-```{=html}
-<p align="left">
-```
-`<a href="https://drive.google.com/file/d/1_3CtOPylx0Gdisd_yQ0t433DJXUzSpx7/view?usp=sharing">`{=html}
-`<img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" />`{=html}
-`</a>`{=html}  
-`<a href="https://linkedin.com/in/sakshi-khutwad">`{=html}
-`<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />`{=html}
-`</a>`{=html}
-```{=html}
-</p>
-```
 ## 💫 About Me
 
 I'm a **Full Stack Developer** passionate about building AI-powered
@@ -22,6 +10,12 @@ healthcare, automation, and productivity**.
 -   💻 Interested in **Web Development, AI/ML, Computer Vision & NLP**
 -   🤝 Open to Open Source collaboration
 -   📫 Reach me at **sakshikhutwad09@gmail.com**
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stillll.becoming) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-khutwad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshikhutwad09@gmail.com) 
+
+## 📄 Resume:
+[![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1_3CtOPylx0Gdisd_yQ0t433DJXUzSpx7/view?usp=sharing)
 
 ------------------------------------------------------------------------
 
