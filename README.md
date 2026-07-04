@@ -26,6 +26,10 @@ healthcare, automation, and productivity**.
 
 ------------------------------------------------------------------------
 
+</div>
+
+<div align="center">
+
 # 🚀 Featured Projects
 
 </div>
