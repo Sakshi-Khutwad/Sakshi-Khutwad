@@ -23,12 +23,12 @@ healthcare, automation, and productivity**.
 ## 📄 Resume:
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1_3CtOPylx0Gdisd_yQ0t433DJXUzSpx7/view?usp=sharing)
 
-</div>
+
 ------------------------------------------------------------------------
 
-# 🚀 Featured Projects
+</div>
 
-<div align="center">
+# 🚀 Featured Projects
 
 ## ✈️ AeroMotion AI
 
@@ -110,6 +110,8 @@ PDFs using OCR and explains reports in simple language with Gemini AI.
 ------------------------------------------------------------------------
 
 # 💻 Tech Stack
+
+<div align="center">
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -203,6 +205,8 @@ PDFs using OCR and explains reports in simple language with Gemini AI.
 
 ------------------------------------------------------------------------
 
+</div>
+
 ## ⚡ Fun Facts
 
 -   🤖 I enjoy building AI-powered applications that solve real-world
@@ -213,7 +217,10 @@ PDFs using OCR and explains reports in simple language with Gemini AI.
 
 ------------------------------------------------------------------------
 
+<div align="center">
+
 ⭐ *Thanks for visiting my profile! Feel free to connect and
 collaborate.*
 
 </div>
+
