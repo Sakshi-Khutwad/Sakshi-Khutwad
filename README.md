@@ -26,9 +26,9 @@ healthcare, automation, and productivity**.
 
 ------------------------------------------------------------------------
 
-</div>
-
 # 🚀 Featured Projects
+
+</div>
 
 ## ✈️ AeroMotion AI
 
@@ -102,16 +102,9 @@ PDFs using OCR and explains reports in simple language with Gemini AI.
 
 ------------------------------------------------------------------------
 
-# 🌟 Open Source
-
--   ❤️ Passionate about building impactful AI applications and
-    contributing to the open-source community.
-
-------------------------------------------------------------------------
+<div align="center">
 
 # 💻 Tech Stack
-
-<div align="center">
 
 ### 💻 Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -205,9 +198,9 @@ PDFs using OCR and explains reports in simple language with Gemini AI.
 
 ------------------------------------------------------------------------
 
-</div>
-
 ## ⚡ Fun Facts
+
+</div>
 
 -   🤖 I enjoy building AI-powered applications that solve real-world
     problems.
