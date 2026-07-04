@@ -1,3 +1,5 @@
+<div align="center">
+
 # 💫 Hi there, I'm Sakshi Khutwad 👋
 
 ## 💫 About Me
@@ -206,3 +208,5 @@ PDFs using OCR and explains reports in simple language with Gemini AI.
 
 ⭐ *Thanks for visiting my profile! Feel free to connect and
 collaborate.*
+
+</div>
