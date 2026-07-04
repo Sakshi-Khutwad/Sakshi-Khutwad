@@ -8,10 +8,14 @@ I'm a **Full Stack Developer** passionate about building AI-powered
 applications that solve real-world problems in **accessibility,
 healthcare, automation, and productivity**.
 
+</div>
+
 -   🌱 Currently learning **DevOps, Cloud Computing & Machine Learning**
 -   💻 Interested in **Web Development, AI/ML, Computer Vision & NLP**
 -   🤝 Open to Open Source collaboration
 -   📫 Reach me at **sakshikhutwad09@gmail.com**
+
+<div align="center">
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/stillll.becoming) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshi-khutwad) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sakshikhutwad09@gmail.com) 
@@ -19,9 +23,12 @@ healthcare, automation, and productivity**.
 ## 📄 Resume:
 [![Resume](https://img.shields.io/badge/Resume-View-blue?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1_3CtOPylx0Gdisd_yQ0t433DJXUzSpx7/view?usp=sharing)
 
+</div>
 ------------------------------------------------------------------------
 
 # 🚀 Featured Projects
+
+<div align="center">
 
 ## ✈️ AeroMotion AI
 
