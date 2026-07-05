@@ -2,11 +2,11 @@
 
 # 💫 Hi there, I'm Sakshi Khutwad 👋
 
+</div>
+
 I'm a **Full Stack Developer** passionate about building AI-powered
 applications that solve real-world problems in **accessibility,
 healthcare, automation, and productivity**.
-
-</div>
 
 -   🌱 Currently learning **DevOps, Cloud Computing & Machine Learning**
 -   💻 Interested in **Web Development, AI/ML, Computer Vision & NLP**
